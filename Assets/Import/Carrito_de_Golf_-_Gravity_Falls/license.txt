@@ -1,0 +1,11 @@
+Model Information:
+* title:	Carrito de Golf - Gravity Falls
+* source:	https://sketchfab.com/3d-models/carrito-de-golf-gravity-falls-f0d503b75b9a4fc8811d5a20d62abfd9
+* author:	merlinammm (https://sketchfab.com/merlinammm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Carrito de Golf - Gravity Falls" (https://sketchfab.com/3d-models/carrito-de-golf-gravity-falls-f0d503b75b9a4fc8811d5a20d62abfd9) by merlinammm (https://sketchfab.com/merlinammm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Car
+* source:	https://sketchfab.com/3d-models/toy-car-4dce5d6cb66f47d5a2079055d64c3d6a
+* author:	Low Poly Models (https://sketchfab.com/LowPolyModelsWorld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Car" (https://sketchfab.com/3d-models/toy-car-4dce5d6cb66f47d5a2079055d64c3d6a) by Low Poly Models (https://sketchfab.com/LowPolyModelsWorld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

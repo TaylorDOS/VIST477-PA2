@@ -1,0 +1,11 @@
+Model Information:
+* title:	shri Ram flag
+* source:	https://sketchfab.com/3d-models/shri-ram-flag-78cbc757ce774535a79239f34e578438
+* author:	aakashkumar (https://sketchfab.com/aakashkumar3369)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "shri Ram flag" (https://sketchfab.com/3d-models/shri-ram-flag-78cbc757ce774535a79239f34e578438) by aakashkumar (https://sketchfab.com/aakashkumar3369) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

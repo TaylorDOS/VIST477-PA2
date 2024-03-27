@@ -1,0 +1,11 @@
+Model Information:
+* title:	Game ready 3D rocket
+* source:	https://sketchfab.com/3d-models/game-ready-3d-rocket-ed391cc6ff3d47588bd61939c634e1c6
+* author:	Nexgen (https://sketchfab.com/Nexgen07)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Game ready 3D rocket" (https://sketchfab.com/3d-models/game-ready-3d-rocket-ed391cc6ff3d47588bd61939c634e1c6) by Nexgen (https://sketchfab.com/Nexgen07) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

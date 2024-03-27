@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jolt-56's Plane
+* source:	https://sketchfab.com/3d-models/jolt-56s-plane-24e473e3ce4a46f2be28c636a27fa208
+* author:	Hendrik Ogg (https://sketchfab.com/hendrik.ogg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jolt-56's Plane" (https://sketchfab.com/3d-models/jolt-56s-plane-24e473e3ce4a46f2be28c636a27fa208) by Hendrik Ogg (https://sketchfab.com/hendrik.ogg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
