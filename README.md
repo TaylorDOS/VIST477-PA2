@@ -5,14 +5,14 @@ Hao Yi Tan, HuiGang Qu, Jash Veragiwala
 
 This repository contains the Unity3D project file for the Texas A&M Spring 2024 VIST 477 Virtual Reality course's second programming assignment. In this assignment, students are required to develop a VR mini golf game designed to run on the Oculus Quest 2.
 
-## Game Setup
+# Game Setup
 -   Players should stand while playing the game.
 -   Upon starting the game, a game setup containing a table, golf club, and golf ball will appear in front of the player.
 -   The game will start after the user grabs the golf club using the right controller's trigger button. They can interact with the golf club using either the direct interactor or ray interactor.
 
 ## Game controls
 |Controller|Function
-|--|--|--|
+|---------------------|-------------------------------------------------------|
 |Right Joystick North|Teleporting|
 |Right Joystick East/West|Player turning left/right|
 |Right Trigger|Grabing golf club|
@@ -39,7 +39,7 @@ This repository contains the Unity3D project file for the Texas A&M Spring 2024 
 ## Implemented Function
 
 |Functionality|Script|
-|--|--|--|
+|---------------------|-------------------------------------------------------|
 |Increase score when club hit the ball|CollisionDetection|
 |Check if ball dropped into the hole|CollisionDetection|
 |Teleport player in front of the ball when ball slowed down|CollisionDetection |
