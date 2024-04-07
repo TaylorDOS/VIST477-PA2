@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Terrain.unity
+    guid: 3fd65aba4bd3445828f186593218a9ea
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7a2284eee7bfb4c8993db79990dc20b7, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d2c046ccd7633421bb60c85421d19986, type: 2}
